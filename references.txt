@@ -1,0 +1,8 @@
+References:
+
+1. https://stackoverflow.com/questions/8213522/when-to-use-cla-clf-or-close-for-clearing-a-plot-in-matplotlib
+
+2. https://stackoverflow.com/questions/36470343/how-to-draw-a-line-with-matplotlib/36479941
+
+3. https://matplotlib.org/index.html
+
