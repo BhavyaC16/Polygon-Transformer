@@ -1,9 +1,9 @@
 # Polygon-Transformer
 Polygon-Transformer lets you visualize polygons, circles and ellipses, as well as the following geometrical transformations:
 
-   -Translation
-   -Rotation
-   -Scaling
+   - Translation
+   - Rotation
+   - Scaling
 
 ## Usage
 1. Run [polygonTransformer.py](https://github.com/BhavyaC16/Polygon-Transformer/blob/master/polygonTransformer.py)
