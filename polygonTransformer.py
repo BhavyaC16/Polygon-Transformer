@@ -1,3 +1,5 @@
+# AUTHOR: BHAVYA CHOPRA
+
 import matplotlib.pyplot as plt
 import math
 import copy
